@@ -261,7 +261,7 @@ export const navLinks = [
     {
       id: 1,
       name: 'Framer',
-      pos: 'Lead Web Developer',
+      pos: 'Web Developer',
       duration: '2022 - Present',
       title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
       icon: '/assets/framer.svg',
